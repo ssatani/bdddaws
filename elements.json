@@ -1,0 +1,2728 @@
+{
+  "version": "1.0.0",
+  "tablegroup": [
+    {
+      "id": "0",
+      "name": "Alcaninos",
+      "image": "c_alcalino",
+      "element": [
+        {
+          "simbol": "Li",
+          "name": "Litio",
+          "description": "",
+          "atomic": "3",
+          "valence": "+1",
+          "color": "c_alcalino",
+          "matomic": "6.9409999999999998",
+          "eoxidacion": "1+",
+          "electronegatividad": "1",
+          "periodo": "2",
+          "grupo": "I A",
+          "fusion": "180.5ºC ",
+          "ebullision": "1330ºC ",
+          "protones": "3",
+          "neutrones": "4",
+          "electrones": "3",
+          "use": [
+            {
+              "id": "0",
+              "name": "Las baterías",
+              "image": "http://www.webosolar.com/foro/wp-content/uploads/2012/05/battery_surrette_s_seriesB.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Na",
+          "name": "Sodio",
+          "description": "",
+          "atomic": "11",
+          "valence": "+1",
+          "color": "c_alcalino",
+          "matomic": "22.989768000000002",
+          "eoxidacion": "1+",
+          "electronegatividad": "0.9",
+          "periodo": "3",
+          "grupo": "I A",
+          "fusion": "97",
+          "ebullision": "8°C",
+          "protones": "11",
+          "neutrones": "12",
+          "electrones": "11",
+          "use": [
+            {
+              "id": "0",
+              "name": "Naturalmente en explosión de sodio en contacto con agua",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Large_Sodium_Explosion.jpg/180px-Large_Sodium_Explosion.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "K",
+          "name": "Potasio",
+          "description": "",
+          "atomic": "19",
+          "valence": "+1",
+          "color": "c_alcalino",
+          "matomic": "39.098300000000002",
+          "eoxidacion": "1+",
+          "electronegatividad": "0.8",
+          "periodo": "4",
+          "grupo": "I A",
+          "fusion": "97",
+          "ebullision": "8°C",
+          "protones": "19",
+          "neutrones": "20",
+          "electrones": "19",
+          "use": [
+            {
+              "id": "0",
+              "name": "Célula solar",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Klassieren.jpg/250px-Klassieren.jpg"
+            },
+            {
+              "id": "1",
+              "name": "Fertilizantes",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Fertilizer_applied_to_corn_field.jpg/250px-Fertilizer_applied_to_corn_field.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Rb",
+          "name": "Rubidio",
+          "description": "",
+          "atomic": "37",
+          "valence": "+1",
+          "color": "c_alcalino",
+          "matomic": "85.467799999999997",
+          "eoxidacion": "1+",
+          "electronegatividad": "0.8",
+          "periodo": "5",
+          "grupo": "I A",
+          "fusion": "38.89 ºC",
+          "ebullision": "688 ºC",
+          "protones": "37",
+          "neutrones": "49",
+          "electrones": "37",
+          "use": [
+            {
+              "id": "0",
+              "name": "Propulsor iónico.",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ion_Engine_Test_Firing_-_GPN-2000-000482.jpg/250px-Ion_Engine_Test_Firing_-_GPN-2000-000482.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Cs",
+          "name": "Cesio",
+          "description": "",
+          "atomic": "55",
+          "valence": "+1",
+          "color": "c_alcalino",
+          "matomic": "132.90543",
+          "eoxidacion": "1+",
+          "electronegatividad": "0.7",
+          "periodo": "6",
+          "grupo": "I A",
+          "fusion": "28.5 ºC",
+          "ebullision": "678.4 ºC",
+          "protones": "55",
+          "neutrones": "78",
+          "electrones": "55",
+          "use": [
+            {
+              "id": "0",
+              "name": "Célula solar",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Klassieren.jpg/250px-Klassieren.jpg"
+            },
+            {
+              "id": "1",
+              "name": "Válvulas termoiónicas",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/5C3Ss.jpg/245px-5C3Ss.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Fr",
+          "name": "Francio",
+          "description": "",
+          "atomic": "87",
+          "valence": "+1",
+          "color": "c_alcalino",
+          "matomic": "223.0197",
+          "eoxidacion": "1+",
+          "electronegatividad": "0.7",
+          "periodo": "7",
+          "grupo": "I A",
+          "fusion": "27 ºC",
+          "ebullision": "677 ºC",
+          "protones": "87",
+          "neutrones": "136",
+          "electrones": "87",
+          "use": [
+            {
+              "id": "0",
+              "name": "Muestra de uraninita",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Pichblende.jpg/220px-Pichblende.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Alcalinotérreos",
+      "image": "c_alcaniloterreo",
+      "element": [
+        {
+          "simbol": "Be",
+          "name": "Berilio",
+          "description": "",
+          "atomic": "4",
+          "valence": "+2",
+          "color": "c_alcaniloterreo",
+          "matomic": "9.0121819999999992",
+          "eoxidacion": "2+",
+          "electronegatividad": "1.5",
+          "periodo": "2",
+          "grupo": "I I A",
+          "fusion": "1278 ºC",
+          "ebullision": "2970 ºC",
+          "protones": "4",
+          "neutrones": "5",
+          "electrones": "4",
+          "use": [
+            {
+              "id": "0",
+              "name": "Aislante eléctrico",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BeO_sample.jpg/245px-BeO_sample.jpg"
+            },
+            {
+              "id": "1",
+              "name": "Fluorescencia",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Fluorescent_minerals_hg.jpg/250px-Fluorescent_minerals_hg.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Mg",
+          "name": "Magnesio",
+          "description": "",
+          "atomic": "12",
+          "valence": "+2",
+          "color": "c_alcaniloterreo",
+          "matomic": "24.305",
+          "eoxidacion": "2+",
+          "electronegatividad": "1.2",
+          "periodo": "3",
+          "grupo": "I I A",
+          "fusion": "638.8 ºC",
+          "ebullision": "1090 ºC",
+          "protones": "12",
+          "neutrones": "12",
+          "electrones": "12",
+          "use": [
+            {
+              "id": "0",
+              "name": "Objetos que contienen magnesio.",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Magnesium-products.jpg/220px-Magnesium-products.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Ca",
+          "name": "Calcio",
+          "description": "",
+          "atomic": "20",
+          "valence": "+2",
+          "color": "c_alcaniloterreo",
+          "matomic": "40.078000000000003",
+          "eoxidacion": "2+",
+          "electronegatividad": "1",
+          "periodo": "4",
+          "grupo": "I I A",
+          "fusion": "839 ºC",
+          "ebullision": "1484.4 ºC",
+          "protones": "20",
+          "neutrones": "20",
+          "electrones": "20",
+          "use": [
+            {
+              "id": "0",
+              "name": "En productos lácteos",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Yasuda_yogurt_150ml.jpg/220px-Yasuda_yogurt_150ml.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Sr",
+          "name": "Estroncio",
+          "description": "",
+          "atomic": "38",
+          "valence": "+2",
+          "color": "c_alcaniloterreo",
+          "matomic": "87.62",
+          "eoxidacion": "2+",
+          "electronegatividad": "1",
+          "periodo": "5",
+          "grupo": "I I A",
+          "fusion": "769 ºC",
+          "ebullision": "1384 ºC",
+          "protones": "38",
+          "neutrones": "50",
+          "electrones": "38",
+          "use": [
+            {
+              "id": "0",
+              "name": "Filtrar rays X",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/X-ray_by_Wilhelm_R%C3%B6ntgen_of_Albert_von_K%C3%B6lliker%27s_hand_-_18960123-02.jpg/250px-X-ray_by_Wilhelm_R%C3%B6ntgen_of_Albert_von_K%C3%B6lliker%27s_hand_-_18960123-02.jpg"
+            },
+            {
+              "id": "1",
+              "name": "Pigmento de pinturas",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/IronOxidePigmentUSGOV.jpg/200px-IronOxidePigmentUSGOV.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Ba",
+          "name": "Bario",
+          "description": "",
+          "atomic": "56",
+          "valence": "+2",
+          "color": "c_alcaniloterreo",
+          "matomic": "137.327",
+          "eoxidacion": "2+",
+          "electronegatividad": "0.9",
+          "periodo": "6",
+          "grupo": "I I A",
+          "fusion": "725 ºC",
+          "ebullision": "1140 ºC",
+          "protones": "56",
+          "neutrones": "81",
+          "electrones": "56",
+          "use": [
+            {
+              "id": "0",
+              "name": "En nitrato de bario se utiliza en fuegos artificiales",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXJW-3AmbOsHowdF68O1Z3PM65npG0aI2dNKKNdljasNlWx-6W"
+            },
+            {
+              "id": "1",
+              "name": "Electrodos negativos de las baterías",
+              "image": "http://www.webosolar.com/foro/wp-content/uploads/2012/05/battery_surrette_s_seriesB.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Ra",
+          "name": "Radio",
+          "description": "",
+          "atomic": "88",
+          "valence": "+2",
+          "color": "c_alcaniloterreo",
+          "matomic": "226.02539999999999",
+          "eoxidacion": "2+",
+          "electronegatividad": "0.9",
+          "periodo": "7",
+          "grupo": "I I A",
+          "fusion": "700 ºC",
+          "ebullision": "1737 ºC",
+          "protones": "88",
+          "neutrones": "138",
+          "electrones": "88",
+          "use": [
+            {
+              "id": "0",
+              "name": "Cloruro de radio para tratamientos contra el cáncer.",
+              "image": "https://image.freepik.com/vector-gratis/fondo-con-diseno-de-medicina_1268-1367.jpg"
+            },
+            {
+              "id": "1",
+              "name": "Pinturas luminiscentes",
+              "image": "https://luminiscentecanarias.es/wp-content/uploads/2016/04/empresa01-e1465906876108.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Lantánidos",
+      "image": "c_lantalino",
+      "element": [
+        {
+          "simbol": "La",
+          "name": "Lantano",
+          "description": "",
+          "atomic": "57",
+          "valence": "+3",
+          "color": "c_lantalino",
+          "matomic": "138.91",
+          "eoxidacion": "3+",
+          "electronegatividad": "1.1000000000000001",
+          "periodo": "6",
+          "grupo": "Lant.",
+          "fusion": "920 ºC",
+          "ebullision": "3469 ºC",
+          "protones": "57",
+          "neutrones": "82",
+          "electrones": "57",
+          "use": [
+            {
+              "id": "1",
+              "name": "Vidrios Especiales.",
+              "image": "http://p.globalsources.com/IMAGES/PDT/B0841606333/Hoja-del-vidrio-de-Borosilicate-para-el-vidrio-%C3%B3ptico.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Ce",
+          "name": "Cerio",
+          "description": "",
+          "atomic": "58",
+          "valence": "+3,+4",
+          "color": "c_lantalino",
+          "matomic": "140.12",
+          "eoxidacion": "3+",
+          "electronegatividad": " 4+",
+          "periodo": "1.1200000000000001",
+          "grupo": "6",
+          "fusion": "Lant.",
+          "ebullision": "795 ºC",
+          "protones": "58",
+          "neutrones": "82",
+          "electrones": "58",
+          "use": [
+            {
+              "id": "0",
+              "name": "Motor de combustión interna",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Wright_R1820_Cyclone.jpg/280px-Wright_R1820_Cyclone.jpg"
+            },
+            {
+              "id": "1",
+              "name": "Aleaciones para imanes",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/MagnetEZ.jpg/200px-MagnetEZ.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Pr",
+          "name": "Praseodimio",
+          "description": "",
+          "atomic": "59",
+          "valence": "+3",
+          "color": "c_lantalino",
+          "matomic": "140.90700000000001",
+          "eoxidacion": "3+",
+          "electronegatividad": " 4+",
+          "periodo": "1.1299999999999999",
+          "grupo": "6",
+          "fusion": "Lant.",
+          "ebullision": "935 ºC",
+          "protones": "59",
+          "neutrones": "82",
+          "electrones": "59",
+          "use": [
+            {
+              "id": "1",
+              "name": "Motores de avion.",
+              "image": "http://3.bp.blogspot.com/-d6fdFqamO5I/VBk0SiCwGJI/AAAAAAABPD4/SsEfEp-GkOA/s1600/El%2Bproblema%2Bfiscal%2B20140327_Page5.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Nd",
+          "name": "Neodimio",
+          "description": "",
+          "atomic": "60",
+          "valence": "+3",
+          "color": "c_lantalino",
+          "matomic": "144.24",
+          "eoxidacion": "3+",
+          "electronegatividad": "1.1399999999999999",
+          "periodo": "6",
+          "grupo": "Lant.",
+          "fusion": "1010 ºC",
+          "ebullision": "3127 ºC",
+          "protones": "60",
+          "neutrones": "84",
+          "electrones": "60",
+          "use": [
+            {
+              "id": "1",
+              "name": "Motores de avion.",
+              "image": "http://3.bp.blogspot.com/-d6fdFqamO5I/VBk0SiCwGJI/AAAAAAABPD4/SsEfEp-GkOA/s1600/El%2Bproblema%2Bfiscal%2B20140327_Page5.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Pm",
+          "name": "Prometio",
+          "description": "",
+          "atomic": "61",
+          "valence": "+3",
+          "color": "c_lantalino",
+          "matomic": "145",
+          "eoxidacion": "3+",
+          "electronegatividad": "1.1299999999999999",
+          "periodo": "6",
+          "grupo": "Lant.",
+          "fusion": "¿?",
+          "ebullision": "¿?",
+          "protones": "61",
+          "neutrones": "86",
+          "electrones": "61",
+          "use": [
+            {
+              "id": "1",
+              "name": "Bombardeo del neodimio-146 con neutrones",
+              "image": "http://1.bp.blogspot.com/--9BEVyLoH9M/VUp-RV6b-pI/AAAAAAAAKJ8/jv4ZDL-dn-4/s1600/protactinio.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Sm",
+          "name": "Samario",
+          "description": "",
+          "atomic": "62",
+          "valence": "+3",
+          "color": "c_lantalino",
+          "matomic": "150.4",
+          "eoxidacion": "3+",
+          "electronegatividad": " 2+",
+          "periodo": "1.17",
+          "grupo": "6",
+          "fusion": "Lant.",
+          "ebullision": "1072 ºC",
+          "protones": "62",
+          "neutrones": "88",
+          "electrones": "62",
+          "use": [
+            {
+              "id": "1",
+              "name": "Catalizadores y para pulir cristales",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjp2ehffO-5E_DMsLwujsawMOnc5LxB1R5yUCM48dteF7QH8sTEw"
+            }
+          ]
+        },
+        {
+          "simbol": "Eu",
+          "name": "Europio",
+          "description": "",
+          "atomic": "63",
+          "valence": "+2,+3",
+          "color": "c_lantalino",
+          "matomic": "151.96",
+          "eoxidacion": "3+",
+          "electronegatividad": " 2+",
+          "periodo": "1.2",
+          "grupo": "6",
+          "fusion": "Lant.",
+          "ebullision": "822 ºC",
+          "protones": "63",
+          "neutrones": "89",
+          "electrones": "63",
+          "use": [
+            {
+              "id": "1",
+              "name": "Lámparas flouorescente.",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Fluorescent_light_bulbs_09.JPG/260px-Fluorescent_light_bulbs_09.JPG"
+            }
+          ]
+        },
+        {
+          "simbol": "Gd",
+          "name": "Gadolinio",
+          "description": "",
+          "atomic": "64",
+          "valence": "+3",
+          "color": "c_lantalino",
+          "matomic": "157.25",
+          "eoxidacion": "3+",
+          "electronegatividad": "1.2",
+          "periodo": "6",
+          "grupo": "Lant.",
+          "fusion": "1311 ºC",
+          "ebullision": "3233 ºC",
+          "protones": "64",
+          "neutrones": "93",
+          "electrones": "64",
+          "use": [
+            {
+              "id": "1",
+              "name": "Resonancia magnética nuclear.",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/MRI_brain.jpg/200px-MRI_brain.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Tb",
+          "name": "Terbio",
+          "description": "",
+          "atomic": "65",
+          "valence": "+3",
+          "color": "c_lantalino",
+          "matomic": "167.26",
+          "eoxidacion": "3+",
+          "electronegatividad": "1.24",
+          "periodo": "6",
+          "grupo": "Lant.",
+          "fusion": "1522 ºC",
+          "ebullision": "2510 ºC",
+          "protones": "65",
+          "neutrones": "93",
+          "electrones": "65",
+          "use": [
+            {
+              "id": "1",
+              "name": "Pila de combustible de metanol directo",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Fuel_cell_NASA_p48600ac.jpg/250px-Fuel_cell_NASA_p48600ac.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Dy",
+          "name": "Disprosio",
+          "description": "",
+          "atomic": "66",
+          "valence": "+3",
+          "color": "c_lantalino",
+          "matomic": "162.5",
+          "eoxidacion": "3+",
+          "electronegatividad": "1.22",
+          "periodo": "6",
+          "grupo": "Lant.",
+          "fusion": "1412 ºC",
+          "ebullision": "2562 ºC",
+          "protones": "66",
+          "neutrones": "96",
+          "electrones": "66",
+          "use": [
+            {
+              "id": "1",
+              "name": "En Reactor nuclear.",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Kewaunee.jpg/332px-Kewaunee.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Ho",
+          "name": "Holmio",
+          "description": "",
+          "atomic": "67",
+          "valence": "+3",
+          "color": "c_lantalino",
+          "matomic": "164.93039999999999",
+          "eoxidacion": "3+",
+          "electronegatividad": "1.23",
+          "periodo": "6",
+          "grupo": "Lant.",
+          "fusion": "1470 ºC",
+          "ebullision": "2720 ºC",
+          "protones": "67",
+          "neutrones": "97",
+          "electrones": "67",
+          "use": [
+            {
+              "id": "1",
+              "name": "Catalizador en reacciones químicas industriales.",
+              "image": "http://conceptodefinicion.de/wp-content/uploads/2014/07/500xNxcatapositivos.jpg.pagespeed.ic.khzzWPvqfZ.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Er",
+          "name": "Erbio",
+          "description": "",
+          "atomic": "68",
+          "valence": "+3",
+          "color": "c_lantalino",
+          "matomic": "",
+          "eoxidacion": "",
+          "electronegatividad": "",
+          "periodo": "",
+          "grupo": "",
+          "fusion": "",
+          "ebullision": "",
+          "protones": "68",
+          "neutrones": "99",
+          "electrones": "68",
+          "use": [
+            {
+              "id": "1",
+              "name": "Cuatro filtros fotográficos.",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Filters_6187.jpg/270px-Filters_6187.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Tm",
+          "name": "Tulio",
+          "description": "",
+          "atomic": "69",
+          "valence": "+3",
+          "color": "c_lantalino",
+          "matomic": "168.9342",
+          "eoxidacion": "3+",
+          "electronegatividad": " 2+",
+          "periodo": "1.25",
+          "grupo": "6",
+          "fusion": "Lant.",
+          "ebullision": "1545 ºC",
+          "protones": "69",
+          "neutrones": "99",
+          "electrones": "69",
+          "use": [
+            {
+              "id": "1",
+              "name": "Materiales cerámicos magnéticos llamados ferritas.",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Tm%2C69.jpg/260px-Tm%2C69.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Yb",
+          "name": "Iterbio",
+          "description": "",
+          "atomic": "70",
+          "valence": "+3",
+          "color": "c_lantalino",
+          "matomic": "173.04",
+          "eoxidacion": "3+",
+          "electronegatividad": " 2+",
+          "periodo": "1.1000000000000001",
+          "grupo": "6",
+          "fusion": "Lant.",
+          "ebullision": "824 ºC",
+          "protones": "70",
+          "neutrones": "70",
+          "electrones": "99",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Lu",
+          "name": "Lutecio",
+          "description": "",
+          "atomic": "71",
+          "valence": "+3",
+          "color": "c_lantalino",
+          "matomic": "174.96",
+          "eoxidacion": "3+",
+          "electronegatividad": "1.27",
+          "periodo": "6",
+          "grupo": "I B",
+          "fusion": "1656 ºC",
+          "ebullision": "3315 ºC",
+          "protones": "71",
+          "neutrones": "71",
+          "electrones": "104",
+          "use": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Actínidos",
+      "image": "c_actinido",
+      "element": [
+        {
+          "simbol": "Ac",
+          "name": "Actinio",
+          "description": "",
+          "atomic": "89",
+          "valence": "+3",
+          "color": "c_actinido",
+          "matomic": "227",
+          "eoxidacion": "3+",
+          "electronegatividad": "1.1000000000000001",
+          "periodo": "7",
+          "grupo": "Act.",
+          "fusion": "1050 ºC",
+          "ebullision": "3200±300 ºC",
+          "protones": "89",
+          "neutrones": "138",
+          "electrones": "89",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Th",
+          "name": "Torio",
+          "description": "",
+          "atomic": "90",
+          "valence": "+4",
+          "color": "c_actinido",
+          "matomic": "232.03800000000001",
+          "eoxidacion": "4+",
+          "electronegatividad": "1.3",
+          "periodo": "7",
+          "grupo": "Act.",
+          "fusion": "1750 ºC",
+          "ebullision": "4790 ºC",
+          "protones": "90",
+          "neutrones": "142",
+          "electrones": "90",
+          "use": [
+            {
+              "id": "0",
+              "name": "Para Soldadura TIG",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/TIG_torch-accs.jpg/220px-TIG_torch-accs.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Pa",
+          "name": "Protactinio",
+          "description": "",
+          "atomic": "91",
+          "valence": "+5",
+          "color": "c_actinido",
+          "matomic": "229.0359",
+          "eoxidacion": "5+",
+          "electronegatividad": " 4+",
+          "periodo": "1.5",
+          "grupo": "7",
+          "fusion": "Act.",
+          "ebullision": "1600 ºC",
+          "protones": "91",
+          "neutrones": "140",
+          "electrones": "91",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "U",
+          "name": "Uranio",
+          "description": "",
+          "atomic": "92",
+          "valence": "+6",
+          "color": "c_actinido",
+          "matomic": "238.029",
+          "eoxidacion": "6+",
+          "electronegatividad": " 5+",
+          "periodo": " 4+",
+          "grupo": " 3+",
+          "fusion": "1.38",
+          "ebullision": "7",
+          "protones": "92",
+          "neutrones": "146",
+          "electrones": "92",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Np",
+          "name": "Neptuno",
+          "description": "",
+          "atomic": "93",
+          "valence": "+5",
+          "color": "c_actinido",
+          "matomic": "237.04820000000001",
+          "eoxidacion": "6+",
+          "electronegatividad": " 5+",
+          "periodo": " 4+",
+          "grupo": " 3+",
+          "fusion": "1.36",
+          "ebullision": "7",
+          "protones": "93",
+          "neutrones": "144",
+          "electrones": "93",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Pu",
+          "name": "Plutonio",
+          "description": "",
+          "atomic": "94",
+          "valence": "+4",
+          "color": "c_actinido",
+          "matomic": "244",
+          "eoxidacion": "6+",
+          "electronegatividad": " 5+",
+          "periodo": " 4+",
+          "grupo": " 3+",
+          "fusion": "1.28",
+          "ebullision": "7",
+         "protones": "94",
+          "neutrones": "150",
+          "electrones": "94",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Am",
+          "name": "Americio",
+          "description": "",
+          "atomic": "95",
+          "valence": "+3",
+          "color": "c_actinido",
+          "matomic": "243",
+          "eoxidacion": "6+",
+          "electronegatividad": " 5+",
+          "periodo": " 4+",
+          "grupo": " 3+",
+          "fusion": "1.3",
+          "ebullision": "7",
+          "protones": "95",
+          "neutrones": "148",
+          "electrones": "95",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Cm",
+          "name": "Curio",
+          "description": "",
+          "atomic": "96",
+          "valence": "+3",
+          "color": "c_actinido",
+          "matomic": "247",
+          "eoxidacion": "3+",
+          "electronegatividad": "1.3",
+          "periodo": "7",
+          "grupo": "Act.",
+          "fusion": "1340 ºC",
+          "ebullision": "¿?",
+          "protones": "96",
+          "neutrones": "151",
+          "electrones": "96",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Bk",
+          "name": "Berkelio",
+          "description": "",
+          "atomic": "97",
+          "valence": "+3",
+          "color": "c_actinido",
+          "matomic": "247",
+          "eoxidacion": "4+",
+          "electronegatividad": " 3+",
+          "periodo": "1.3",
+          "grupo": "7",
+          "fusion": "Act.",
+          "ebullision": "¿?",
+          "protones": "97",
+          "neutrones": "150",
+          "electrones": "97",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Cf",
+          "name": "Californio",
+          "description": "",
+          "atomic": "98",
+          "valence": "+3",
+          "color": "c_actinido",
+          "matomic": "251",
+          "eoxidacion": "3+",
+          "electronegatividad": "1.3",
+          "periodo": "7",
+          "grupo": "Act.",
+          "fusion": "¿?",
+          "ebullision": "¿?",
+          "protones": "98",
+          "neutrones": "153",
+          "electrones": "98",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Es",
+          "name": "Einstenio",
+          "description": "",
+          "atomic": "99",
+          "valence": "+3",
+          "color": "c_actinido",
+          "matomic": "254",
+          "eoxidacion": "3+",
+          "electronegatividad": "1.3",
+          "periodo": "7",
+          "grupo": "Act.",
+          "fusion": "¿?",
+          "ebullision": "¿?",
+          "protones": "99",
+          "neutrones": "153",
+          "electrones": "99",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Fm",
+          "name": "Fermio",
+          "description": "",
+          "atomic": "100",
+          "valence": "+3",
+          "color": "c_actinido",
+          "matomic": "257",
+          "eoxidacion": "3+",
+          "electronegatividad": "1.3",
+          "periodo": "7",
+          "grupo": "Act.",
+          "fusion": "¿?",
+          "ebullision": "¿?",
+          "protones": "100",
+          "neutrones": "157",
+          "electrones": "100",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Md",
+          "name": "Mendelevio",
+          "description": "",
+          "atomic": "101",
+          "valence": "+3",
+          "color": "c_actinido",
+          "matomic": "258",
+          "eoxidacion": "3+",
+          "electronegatividad": "1.3",
+          "periodo": "7",
+          "grupo": "Act.",
+          "fusion": "¿?",
+          "ebullision": "¿?",
+          "protones": "101",
+          "neutrones": "157",
+          "electrones": "101",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "No",
+          "name": "Nobelio",
+          "description": "",
+          "atomic": "102",
+          "valence": "+2",
+          "color": "c_actinido",
+          "matomic": "259",
+          "eoxidacion": "2+",
+          "electronegatividad": " 3+",
+          "periodo": "1.3",
+          "grupo": "7",
+          "fusion": "Act.",
+          "ebullision": "¿?",
+          "protones": "102",
+          "neutrones": "157",
+          "electrones": "102",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Lr",
+          "name": "Lawrencio",
+          "description": "",
+          "atomic": "103",
+          "valence": "+3",
+          "color": "c_actinido",
+          "matomic": "260",
+          "eoxidacion": "3+",
+          "electronegatividad": "1.3",
+          "periodo": "7",
+          "grupo": "I B",
+          "fusion": "¿?",
+          "ebullision": "¿?",
+          "protones": "103",
+          "neutrones": "159",
+          "electrones": "103",
+          "use": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Metales de Transisción",
+      "image": "c_metales_transision",
+      "element": [
+        {
+          "simbol": "Sc",
+          "name": "Escandio",
+          "description": "",
+          "atomic": "21",
+          "valence": "+3",
+          "color": "c_metales_transision",
+          "matomic": "44.956000000000003",
+          "eoxidacion": "3+",
+          "electronegatividad": "1.36",
+          "periodo": "4",
+          "grupo": "I B",
+          "fusion": "1539 ºC",
+          "ebullision": "2832 ºC",
+          "protones": "21",
+          "neutrones": "24",
+          "electrones": "21",
+          "use": [
+            {
+              "id": "0",
+              "name": "Lámparas de vapor",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MV_Lamp_175_W.JPG/150px-MV_Lamp_175_W.JPG"
+            }
+          ]
+        },
+        {
+          "simbol": "Ti",
+          "name": "Titanio",
+          "description": "",
+          "atomic": "22",
+          "valence": "+4",
+          "color": "c_metales_transision",
+          "matomic": "47.9",
+          "eoxidacion": "4+",
+          "electronegatividad": " 3+",
+          "periodo": "1.54",
+          "grupo": "4",
+          "fusion": "II B",
+          "ebullision": "1660 ºC",
+          "protones": "22",
+          "neutrones": "26",
+          "electrones": "22",
+          "use": [
+            {
+              "id": "0",
+              "name": "Acero Inoxidable",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Water_fountains_-_two_stainless_steel.jpg/220px-Water_fountains_-_two_stainless_steel.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "V",
+          "name": "Vanadio",
+          "description": "",
+          "atomic": "23",
+          "valence": "+2,+3,+4,+5",
+          "color": "c_metales_transision",
+          "matomic": "50.942",
+          "eoxidacion": "5+",
+          "electronegatividad": " 4+",
+          "periodo": " 3+",
+          "grupo": " 2+",
+          "fusion": "1.63",
+          "ebullision": "4",
+          "protones": "23",
+          "neutrones": "27",
+          "electrones": "23",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Cr",
+          "name": "Cromo",
+          "description": "",
+          "atomic": "24",
+          "valence": "+2,+3,+6",
+          "color": "c_metales_transision",
+          "matomic": "51.996000000000002",
+          "eoxidacion": "6+",
+          "electronegatividad": " 3+",
+          "periodo": " 2+",
+          "grupo": "1.66",
+          "fusion": "4",
+          "ebullision": "IV B",
+          "protones": "24",
+          "neutrones": "28",
+          "electrones": "24",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Mn",
+          "name": "Manganeso",
+          "description": "",
+          "atomic": "25",
+          "valence": "+2,+3,+4,+6,+7",
+          "color": "c_metales_transision",
+          "matomic": "54.938000000000002",
+          "eoxidacion": "7+",
+          "electronegatividad": " 6+",
+          "periodo": " 4+",
+          "grupo": " 2+",
+          "fusion": " 3+",
+          "ebullision": "1.55",
+          "protones": "12",
+          "neutrones": "12",
+          "electrones": "12",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Fe",
+          "name": "Hierro",
+          "description": "",
+          "atomic": "26",
+          "valence": "+2,+3",
+          "color": "c_metales_transision",
+          "matomic": "55.847000000000001",
+          "eoxidacion": "2+",
+          "electronegatividad": " 3+",
+          "periodo": "1.83",
+          "grupo": "4",
+          "fusion": "VI B",
+          "ebullision": "1535 ºC",
+          "protones": "26",
+          "neutrones": "30",
+          "electrones": "26",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Co",
+          "name": "Cobalto",
+          "description": "",
+          "atomic": "27",
+          "valence": "+2,+3",
+          "color": "c_metales_transision",
+          "matomic": "58.933199999999999",
+          "eoxidacion": "2+",
+          "electronegatividad": " 3+",
+          "periodo": "1.88",
+          "grupo": "4",
+          "fusion": "VII B",
+          "ebullision": "1495 ºC",
+          "protones": "27",
+          "neutrones": "32",
+          "electrones": "27",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Ni",
+          "name": "Níquel",
+          "description": "",
+          "atomic": "28",
+          "valence": "+2,+3",
+          "color": "c_metales_transision",
+          "matomic": "58.71",
+          "eoxidacion": "2+",
+          "electronegatividad": " 3+",
+          "periodo": "1.91",
+          "grupo": "4",
+          "fusion": "VIII B",
+          "ebullision": "1453 ºC",
+          "protones": "28",
+          "neutrones": "31",
+          "electrones": "28",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Cu",
+          "name": "Cobre",
+          "description": "",
+          "atomic": "29",
+          "valence": "+1,+2,+3,+4",
+          "color": "c_metales_transision",
+          "matomic": "63.54",
+          "eoxidacion": "2+",
+          "electronegatividad": " 1+",
+          "periodo": "1.9",
+          "grupo": "4",
+          "fusion": "VIII B",
+          "ebullision": "1803 ºC",
+          "protones": "29",
+          "neutrones": "35",
+          "electrones": "29",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Zn",
+          "name": "Zinc",
+          "description": "",
+          "atomic": "30",
+          "valence": "+2",
+          "color": "c_metales_transision",
+          "matomic": "65.37",
+          "eoxidacion": "2+",
+          "electronegatividad": "1.65",
+          "periodo": "4",
+          "grupo": "VIII B",
+          "fusion": "419.58 ºC",
+          "ebullision": "907 ºC",
+          "protones": "30",
+          "neutrones": "35",
+          "electrones": "30",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Y",
+          "name": "Itrio",
+          "description": "",
+          "atomic": "39",
+          "valence": "+3",
+          "color": "c_metales_transision",
+          "matomic": "88.905000000000001",
+          "eoxidacion": "3+",
+          "electronegatividad": "1.22",
+          "periodo": "5",
+          "grupo": "I B",
+          "fusion": "1523 ºC",
+          "ebullision": "3337 ºC",
+          "protones": "39",
+          "neutrones": "50",
+          "electrones": "39",
+          "use": [
+            {
+              "id": "0",
+              "name": "Propiedades magnéticas",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Al%2C13.jpg/260px-Al%2C13.jpg"
+            },
+            {
+              "id": "1",
+              "name": "Akeaciones con otros metales",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Egypte_louvre_132_arme.jpg/220px-Egypte_louvre_132_arme.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Zr",
+          "name": "Zirconio",
+          "description": "",
+          "atomic": "40",
+          "valence": "+4",
+          "color": "c_metales_transision",
+          "matomic": "91.22",
+          "eoxidacion": "4+",
+          "electronegatividad": "1.33",
+          "periodo": "5",
+          "grupo": "II B",
+          "fusion": "1852±2 ºC",
+          "ebullision": "4377 ºC",
+          "protones": "40",
+          "neutrones": "51",
+          "electrones": "40",
+          "use": [
+            {
+              "id": "0",
+              "name": "",
+              "image": ""
+            }
+          ]
+        },
+        {
+          "simbol": "Nb",
+          "name": "Niobio",
+          "description": "",
+          "atomic": "41",
+          "valence": "+2,+3,+4,+5",
+          "color": "c_metales_transision",
+          "matomic": "92.906000000000006",
+          "eoxidacion": "5+",
+          "electronegatividad": " 3+",
+          "periodo": "1.6",
+          "grupo": "5",
+          "fusion": "III B",
+          "ebullision": "2468±10 ºC",
+          "protones": "41",
+          "neutrones": "52",
+          "electrones": "41",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Mo",
+          "name": "Molibdeno",
+          "description": "",
+          "atomic": "42",
+          "valence": "+2,+3,+4,+5,+6",
+          "color": "c_metales_transision",
+          "matomic": "95.94",
+          "eoxidacion": "6+",
+          "electronegatividad": " 5+",
+          "periodo": " 4+",
+          "grupo": " 3+",
+          "fusion": " 2+",
+          "ebullision": "2.16",
+          "protones": "42",
+          "neutrones": "54",
+          "electrones": "42",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Tc",
+          "name": "Tecnecio",
+          "description": "",
+          "atomic": "43",
+          "valence": "+4,+7",
+          "color": "c_metales_transision",
+          "matomic": "98.906199999999998",
+          "eoxidacion": "7+",
+          "electronegatividad": "1.9",
+          "periodo": "5",
+          "grupo": "V B",
+          "fusion": "2200±50 ºC",
+          "ebullision": "4877 ºC",
+          "protones": "43",
+          "neutrones": "56",
+          "electrones": "43",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Ru",
+          "name": "Rutenio",
+          "description": "",
+          "atomic": "44",
+          "valence": "+2,+3,+4,+6,+8",
+          "color": "c_metales_transision",
+          "matomic": "101.07",
+          "eoxidacion": "2+",
+          "electronegatividad": " 3+",
+          "periodo": " 4+",
+          "grupo": " 6+",
+          "fusion": " 8+",
+          "ebullision": "2.2000000000000002",
+          "protones": "44",
+          "neutrones": "58",
+          "electrones": "44",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Rh",
+          "name": "Rodio",
+          "description": "",
+          "atomic": "45",
+          "valence": "+3",
+          "color": "c_metales_transision",
+          "matomic": "102.905",
+          "eoxidacion": "2+",
+          "electronegatividad": " 3+",
+          "periodo": " 4+",
+          "grupo": "2.2799999999999998",
+          "fusion": "5",
+          "ebullision": "VII B",
+          "protones": "45",
+          "neutrones": "57",
+          "electrones": "45",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Pd",
+          "name": "Paladio",
+          "description": "",
+          "atomic": "46",
+          "valence": "+1,+2,+4,+6",
+          "color": "c_metales_transision",
+          "matomic": "106.4",
+          "eoxidacion": "2+",
+          "electronegatividad": " 4+",
+          "periodo": "2.2000000000000002",
+          "grupo": "5",
+          "fusion": "VIII B",
+          "ebullision": "1552 ºC",
+          "protones": "46",
+          "neutrones": "60",
+          "electrones": "46",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Ag",
+          "name": "Plata",
+          "description": "",
+          "atomic": "47",
+          "valence": "+1,+2,+3,+4",
+          "color": "c_metales_transision",
+          "matomic": "107.86799999999999",
+          "eoxidacion": "1+",
+          "electronegatividad": "1.93",
+          "periodo": "5",
+          "grupo": "VIII B",
+          "fusion": "961.93 ºC",
+          "ebullision": "2212 ºC",
+          "protones": "46",
+          "neutrones": "46",
+          "electrones": "60",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Cd",
+          "name": "Cadmio",
+          "description": "",
+          "atomic": "48",
+          "valence": "+1,+2",
+          "color": "c_metales_transision",
+          "matomic": "112.4",
+          "eoxidacion": "2+",
+          "electronegatividad": "1.69",
+          "periodo": "5",
+          "grupo": "VIII B",
+          "fusion": "320.9 ºC",
+          "ebullision": "765 ºC",
+          "protones": "48",
+          "neutrones": "48",
+          "electrones": "64",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Hf",
+          "name": "Hafnio",
+          "description": "",
+          "atomic": "72",
+          "valence": "+2,+3,+4",
+          "color": "c_metales_transision",
+          "matomic": "178.49",
+          "eoxidacion": "4+",
+          "electronegatividad": "1.3",
+          "periodo": "6",
+          "grupo": "II B",
+          "fusion": "2150 ºC",
+          "ebullision": "5400 ºC",
+          "protones": "72",
+          "neutrones": "105",
+          "electrones": "72",
+          "use": [
+            {
+              "id": "0",
+              "name": "Microprocesadores",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/AMD_X2_3600.jpg/350px-AMD_X2_3600.jpg"
+            }
+          ]
+        },
+        {
+          "simbol": "Ta",
+          "name": "Tántalo",
+          "description": "",
+          "atomic": "73",
+          "valence": "+5",
+          "color": "c_metales_transision",
+          "matomic": "180.94",
+          "eoxidacion": "5+",
+          "electronegatividad": "1.5",
+          "periodo": "6",
+          "grupo": "III B",
+          "fusion": "2996 ºC",
+          "ebullision": "5425±100 ºC",
+          "protones": "73",
+          "neutrones": "108",
+          "electrones": "73",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "W",
+          "name": "Wolframio o Tungteno",
+          "description": "",
+          "atomic": "74",
+          "valence": "+4,+6",
+          "color": "c_metales_transision",
+          "matomic": "183.85",
+          "eoxidacion": "6+",
+          "electronegatividad": " 5+",
+          "periodo": " 4+",
+          "grupo": " 3+",
+          "fusion": " 2+",
+          "ebullision": "2.36",
+          "protones": "104",
+          "neutrones": "157",
+          "electrones": "104",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Re",
+          "name": "Renio",
+          "description": "",
+          "atomic": "75",
+          "valence": "+4",
+          "color": "c_metales_transision",
+          "matomic": "186.21",
+          "eoxidacion": "7+",
+          "electronegatividad": " 6+",
+          "periodo": " 4+",
+          "grupo": " 2+",
+          "fusion": "1.9",
+          "ebullision": "6",
+          "protones": "75",
+          "neutrones": "111",
+          "electrones": "75",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Os",
+          "name": "Osmio",
+          "description": "",
+          "atomic": "76",
+          "valence": "+4",
+          "color": "c_metales_transision",
+          "matomic": "190.2",
+          "eoxidacion": "2+",
+          "electronegatividad": " 3+",
+          "periodo": " 4+",
+          "grupo": " 6+",
+          "fusion": " 8+",
+          "ebullision": "2.2000000000000002",
+          "protones": "76",
+          "neutrones": "114",
+          "electrones": "76",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Ir",
+          "name": "Iridio",
+          "description": "",
+          "atomic": "77",
+          "valence": "+3,+4",
+          "color": "c_metales_transision",
+          "matomic": "192.2",
+          "eoxidacion": "2+",
+          "electronegatividad": " 3+",
+          "periodo": " 4+",
+          "grupo": " 6+",
+          "fusion": "2.2000000000000002",
+          "ebullision": "6",
+          "protones": "77",
+          "neutrones": "77",
+          "electrones": "115",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Pt",
+          "name": "Platino",
+          "description": "",
+          "atomic": "78",
+          "valence": "+2,+4",
+          "color": "c_metales_transision",
+          "matomic": "195.09",
+          "eoxidacion": "2+",
+          "electronegatividad": " 4+",
+          "periodo": "2.2799999999999998",
+          "grupo": "6",
+          "fusion": "VIII B",
+          "ebullision": "1772 ºC",
+          "protones": "78",
+          "neutrones": "117",
+          "electrones": "78",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Au",
+          "name": "Oro",
+          "description": "",
+          "atomic": "79",
+          "valence": "+1,+3",
+          "color": "c_metales_transision",
+          "matomic": "196.96700000000001",
+          "eoxidacion": "3+",
+          "electronegatividad": " 1+",
+          "periodo": "2.54",
+          "grupo": "6",
+          "fusion": "VIII B",
+          "ebullision": "1064.43 ºC",
+          "protones": "79",
+          "neutrones": "118",
+          "electrones": "79",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Hg",
+          "name": "Mercurio",
+          "description": "",
+          "atomic": "80",
+          "valence": "+1,+2",
+          "color": "c_metales_transision",
+          "matomic": "200.59",
+          "eoxidacion": "2+",
+          "electronegatividad": " 1+",
+          "periodo": "2",
+          "grupo": "6",
+          "fusion": "VIII B",
+          "ebullision": "-38.87 ºC",
+          "protones": "80",
+          "neutrones": "120",
+          "electrones": "80",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Rf",
+          "name": "Rutherfordium",
+          "description": "",
+          "atomic": "104",
+          "valence": "+4",
+          "color": "c_metales_transision",
+          "matomic": "261",
+          "eoxidacion": "¿?",
+          "electronegatividad": "¿?",
+          "periodo": "7",
+          "grupo": "II B",
+          "fusion": "¿?",
+          "ebullision": "¿?",
+          "protones": "104",
+          "neutrones": "157",
+          "electrones": "104",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Db",
+          "name": "Dubnio",
+          "description": "",
+          "atomic": "105",
+          "valence": "+5",
+          "color": "c_metales_transision",
+          "matomic": "262",
+          "eoxidacion": "¿?",
+          "electronegatividad": "¿?",
+          "periodo": "7",
+          "grupo": "III B",
+          "fusion": "¿?",
+          "ebullision": "¿?",
+          "protones": "105",
+          "neutrones": "157",
+          "electrones": "105",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Sg",
+          "name": "Seaborgio",
+          "description": "",
+          "atomic": "106",
+          "valence": "+6",
+          "color": "c_metales_transision",
+          "matomic": "262",
+          "eoxidacion": "¿?",
+          "electronegatividad": "¿?",
+          "periodo": "7",
+          "grupo": "6",
+          "fusion": "¿?",
+          "ebullision": "¿?",
+          "protones": "106",
+          "neutrones": "165",
+          "electrones": "106",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Bh",
+          "name": "Bohrio",
+          "description": "",
+          "atomic": "107",
+          "valence": "+7",
+          "color": "c_metales_transision",
+          "matomic": "",
+          "eoxidacion": "",
+          "electronegatividad": "",
+          "periodo": "-",
+          "grupo": "-",
+          "fusion": "-",
+          "ebullision": "-",
+          "protones": "107",
+          "neutrones": "163",
+          "electrones": "107",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Hs",
+          "name": "Hasio",
+          "description": "",
+          "atomic": "108",
+          "valence": "+8",
+          "color": "c_metales_transision",
+          "matomic": "",
+          "eoxidacion": "",
+          "electronegatividad": "",
+          "periodo": "",
+          "grupo": "",
+          "fusion": "",
+          "ebullision": "",
+          "protones": "108",
+          "neutrones": "163",
+          "electrones": "108",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Mt",
+          "name": "Meitnerio",
+          "description": "",
+          "atomic": "109",
+          "valence": "-",
+          "color": "c_metales_transision",
+          "matomic": "",
+          "eoxidacion": "",
+          "electronegatividad": "",
+          "periodo": "",
+          "grupo": "",
+          "fusion": "",
+          "ebullision": "",
+          "protones": "109",
+          "neutrones": "169",
+          "electrones": "109",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Ds",
+          "name": "Darmstatio",
+          "description": "",
+          "atomic": "110",
+          "valence": "-",
+          "color": "c_metales_transision",
+          "matomic": "",
+          "eoxidacion": "",
+          "electronegatividad": "",
+          "periodo": "",
+          "grupo": "",
+          "fusion": "",
+          "ebullision": "",
+          "protones": "110",
+          "neutrones": "171",
+          "electrones": "110",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Rg",
+          "name": "Roentgenio",
+          "description": "",
+          "atomic": "111",
+          "valence": "-",
+          "color": "c_metales_transision",
+          "matomic": "",
+          "eoxidacion": "",
+          "electronegatividad": "",
+          "periodo": "",
+          "grupo": "",
+          "fusion": "",
+          "ebullision": "",
+          "protones": "111",
+          "neutrones": "170",
+          "electrones": "111",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Cn",
+          "name": "Copernicio",
+          "description": "",
+          "atomic": "112",
+          "valence": "-",
+          "color": "c_metales_transision",
+          "matomic": "",
+          "eoxidacion": "",
+          "electronegatividad": "",
+          "periodo": "",
+          "grupo": "",
+          "fusion": "",
+          "ebullision": "",
+          "protones": "112",
+          "neutrones": "173",
+          "electrones": "112",
+          "use": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Metales del bloque p",
+      "image": "c_metales_bloque",
+      "element": [
+        {
+          "simbol": "Al",
+          "name": "Aluminio",
+          "description": "",
+          "atomic": "13",
+          "valence": "+3",
+          "color": "c_metales_bloque",
+          "matomic": "26.9815",
+          "eoxidacion": "3+",
+          "electronegatividad": "1.61",
+          "periodo": "3",
+          "grupo": "III A",
+          "fusion": "660.37 ºC",
+          "ebullision": "2467 ºC",
+          "protones": "13",
+          "neutrones": "14",
+          "electrones": "13",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Ga",
+          "name": "Galio",
+          "description": "",
+          "atomic": "31",
+          "valence": "+3",
+          "color": "c_metales_bloque",
+          "matomic": "69.72",
+          "eoxidacion": "3+",
+          "electronegatividad": "1.81",
+          "periodo": "4",
+          "grupo": "III A",
+          "fusion": "29.78 ºC",
+          "ebullision": "2403 ºC",
+          "protones": "31",
+          "neutrones": "39",
+          "electrones": "31",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "In",
+          "name": "Indio",
+          "description": "",
+          "atomic": "49",
+          "valence": "+3",
+          "color": "c_metales_bloque",
+          "matomic": "114.82",
+          "eoxidacion": "3+",
+          "electronegatividad": "1.78",
+          "periodo": "5",
+          "grupo": "III A",
+          "fusion": "156.61 ºC",
+          "ebullision": "2000±10 ºC",
+          "protones": "49",
+          "neutrones": "66",
+          "electrones": "49",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Tl",
+          "name": "Talio",
+          "description": "",
+          "atomic": "81",
+          "valence": "+1,+3",
+          "color": "c_metales_bloque",
+          "matomic": "204.37",
+          "eoxidacion": "3+",
+          "electronegatividad": " 1+",
+          "periodo": "2.04",
+          "grupo": "6",
+          "fusion": "III A",
+          "ebullision": "303.5 ºC",
+          "protones": "81",
+          "neutrones": "123",
+          "electrones": "81",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Nh",
+          "name": "Nihonio",
+          "description": "",
+          "atomic": "113",
+          "valence": "-",
+          "color": "c_metales_bloque",
+          "matomic": "",
+          "eoxidacion": "",
+          "electronegatividad": "",
+          "periodo": "",
+          "grupo": "",
+          "fusion": "",
+          "ebullision": "",
+          "protones": "113",
+          "neutrones": "171",
+          "electrones": "113",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Sn",
+          "name": "Estaño",
+          "description": "",
+          "atomic": "50",
+          "valence": "+2,+4",
+          "color": "c_metales_bloque",
+          "matomic": "118.69",
+          "eoxidacion": "4+",
+          "electronegatividad": " 2+",
+          "periodo": "1.96",
+          "grupo": "5",
+          "fusion": "IV A",
+          "ebullision": "231.9 ºC",
+          "protones": "50",
+          "neutrones": "69",
+          "electrones": "50",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Pb",
+          "name": "Plomo",
+          "description": "",
+          "atomic": "82",
+          "valence": "+2,+4",
+          "color": "c_metales_bloque",
+          "matomic": "207.19",
+          "eoxidacion": "4+",
+          "electronegatividad": " 2+",
+          "periodo": "2.33",
+          "grupo": "6",
+          "fusion": "IV A",
+          "ebullision": "327.5 ºC",
+          "protones": "82",
+          "neutrones": "125",
+          "electrones": "82",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Fl",
+          "name": "Flerovio",
+          "description": "",
+          "atomic": "114",
+          "valence": "-",
+          "color": "c_metales_bloque",
+          "matomic": "",
+          "eoxidacion": "",
+          "electronegatividad": "",
+          "periodo": "",
+          "grupo": "",
+          "fusion": "",
+          "ebullision": "",
+          "protones": "114",
+          "neutrones": "175",
+          "electrones": "114",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Bi",
+          "name": "Bismuto",
+          "description": "",
+          "atomic": "83",
+          "valence": "-3,+3,+5",
+          "color": "c_metales_bloque",
+          "matomic": "208.96",
+          "eoxidacion": "3+",
+          "electronegatividad": " 5+",
+          "periodo": "2.02",
+          "grupo": "6",
+          "fusion": "V A",
+          "ebullision": "271.3 ºC",
+          "protones": "-",
+          "neutrones": "-",
+          "electrones": "-",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Mc",
+          "name": "Moscovio",
+          "description": "",
+          "atomic": "115",
+          "valence": "-",
+          "color": "c_metales_bloque",
+          "matomic": "",
+          "eoxidacion": "",
+          "electronegatividad": "",
+          "periodo": "",
+          "grupo": "",
+          "fusion": "",
+          "ebullision": "",
+          "protones": "-",
+          "neutrones": "-",
+          "electrones": "-",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Lv",
+          "name": "Livermorio",
+          "description": "",
+          "atomic": "116",
+          "valence": "-",
+          "color": "c_metales_bloque",
+          "matomic": "",
+          "eoxidacion": "",
+          "electronegatividad": "",
+          "periodo": "",
+          "grupo": "",
+          "fusion": "",
+          "ebullision": "",
+          "protones": "-",
+          "neutrones": "-",
+          "electrones": "-",
+          "use": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Metaloides",
+      "image": "c_metaloides",
+      "element": [
+        {
+          "simbol": "B",
+          "name": "Boro",
+          "description": "",
+          "atomic": "5",
+          "valence": "+3",
+          "color": "c_metaloides",
+          "matomic": "10.811",
+          "eoxidacion": "3+",
+          "electronegatividad": "2.04",
+          "periodo": "2",
+          "grupo": "III A",
+          "fusion": "2300 ºC",
+          "ebullision": "2550 ºC",
+          "protones": "-",
+          "neutrones": "-",
+          "electrones": "-",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Si",
+          "name": "Silicio",
+          "description": "",
+          "atomic": "14",
+          "valence": "+4",
+          "color": "c_metaloides",
+          "matomic": "28.085999999999999",
+          "eoxidacion": "4+",
+          "electronegatividad": " 2+",
+          "periodo": "1.9",
+          "grupo": "3",
+          "fusion": "IV A",
+          "ebullision": "1410 ºC",
+          "protones": "-",
+          "neutrones": "-",
+          "electrones": "-",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Ge",
+          "name": "Germanio",
+          "description": "",
+          "atomic": "32",
+          "valence": "+2,+4",
+          "color": "c_metaloides",
+          "matomic": "72.59",
+          "eoxidacion": "4+",
+          "electronegatividad": "2.0099999999999998",
+          "periodo": "4",
+          "grupo": "IV A",
+          "fusion": "937.4 ºC",
+          "ebullision": "2830 ºC",
+          "protones": "-",
+          "neutrones": "-",
+          "electrones": "-",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "As",
+          "name": "Arsénico",
+          "description": "",
+          "atomic": "33",
+          "valence": "-3,+3,+5",
+          "color": "c_metaloides",
+          "matomic": "74.921599999999998",
+          "eoxidacion": "3-",
+          "electronegatividad": " 3+",
+          "periodo": " 5+",
+          "grupo": "2.16",
+          "fusion": "4",
+          "ebullision": "V A",
+          "protones": "-",
+          "neutrones": "-",
+          "electrones": "-",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Sb",
+          "name": "Antimonio",
+          "description": "",
+          "atomic": "51",
+          "valence": "-3,+3,+5",
+          "color": "c_metaloides",
+          "matomic": "121.75",
+          "eoxidacion": "3-",
+          "electronegatividad": " 3+",
+          "periodo": " 5+",
+          "grupo": "2.0499999999999998",
+          "fusion": "5",
+          "ebullision": "V A",
+          "protones": "-",
+          "neutrones": "-",
+          "electrones": "-",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Te",
+          "name": "Telurio",
+          "description": "",
+          "atomic": "52",
+          "valence": "-2,+2,+4,+6",
+          "color": "c_metaloides",
+          "matomic": "127.6",
+          "eoxidacion": "2-",
+          "electronegatividad": " 4+",
+          "periodo": " 6+",
+          "grupo": "2.1",
+          "fusion": "5",
+          "ebullision": "VI A",
+          "protones": "-",
+          "neutrones": "-",
+          "electrones": "-",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Po",
+          "name": "Polonio",
+          "description": "",
+          "atomic": "84",
+          "valence": "-2,+2,+4",
+          "color": "c_metaloides",
+          "matomic": "209",
+          "eoxidacion": "4+",
+          "electronegatividad": " 2+",
+          "periodo": " 6+",
+          "grupo": "2",
+          "fusion": "6",
+          "ebullision": "VI A",
+          "protones": "-",
+          "neutrones": "-",
+          "electrones": "-",
+          "use": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "No Metales",
+      "image": "c_no_metal",
+      "element": [
+        {
+          "simbol": "C",
+          "name": "Carbono",
+          "description": "",
+          "atomic": "6",
+          "valence": "+2,+4",
+          "color": "c_no_metal",
+          "matomic": "12.011150000000001",
+          "eoxidacion": "4+",
+          "electronegatividad": " 4-",
+          "periodo": " 2+",
+          "grupo": "2.5499999999999998",
+          "fusion": "2",
+          "ebullision": "IV A",
+          "protones": "-",
+          "neutrones": "-",
+          "electrones": "-",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "N",
+          "name": "Nitrógeno",
+          "description": "",
+          "atomic": "7",
+          "valence": "-3,-2,-1,+1,+2,+3,+4",
+          "color": "c_no_metal",
+          "matomic": "14.0067",
+          "eoxidacion": "3-",
+          "electronegatividad": " 3+",
+          "periodo": " 5+",
+          "grupo": " 4+",
+          "fusion": " 2+",
+          "ebullision": "3.04",
+          "protones": "7",
+          "neutrones": "7",
+          "electrones": "7",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "O",
+          "name": "Oxígeno",
+          "description": "",
+          "atomic": "8",
+          "valence": "-2,-1",
+          "color": "c_no_metal",
+          "matomic": "15.9994",
+          "eoxidacion": "2-",
+          "electronegatividad": "3.44",
+          "periodo": "2",
+          "grupo": "VI A",
+          "fusion": "-218.4 ºC",
+          "ebullision": "-183.0 ºC",
+          "protones": "8",
+          "neutrones": "8",
+          "electrones": "8",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "P",
+          "name": "Fósforo",
+          "description": "",
+          "atomic": "15",
+          "valence": "-3,+1,+3,+5",
+          "color": "c_no_metal",
+          "matomic": "30.973800000000001",
+          "eoxidacion": "3-",
+          "electronegatividad": " 3+",
+          "periodo": " 5+",
+          "grupo": " 4+",
+          "fusion": "2.19",
+          "ebullision": "3",
+          "protones": "-",
+          "neutrones": "-",
+          "electrones": "-",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "S",
+          "name": "Azufre",
+          "description": "",
+          "atomic": "7",
+          "valence": "-2,+2,+4,+6",
+          "color": "c_no_metal",
+          "matomic": "32.064",
+          "eoxidacion": "2-",
+          "electronegatividad": " 2+",
+          "periodo": " 4+",
+          "grupo": " 6+",
+          "fusion": "2.58",
+          "ebullision": "3",
+          "protones": "-",
+          "neutrones": "-",
+          "electrones": "-",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Se",
+          "name": "Selenio",
+          "description": "",
+          "atomic": "16",
+          "valence": "-2,+2,4,+6",
+          "color": "c_no_metal",
+          "matomic": "78.959999999999994",
+          "eoxidacion": "2-",
+          "electronegatividad": " 4+",
+          "periodo": " 6+",
+          "grupo": "2.5499999999999998",
+          "fusion": "4",
+          "ebullision": "VI A",
+          "protones": "-",
+          "neutrones": "-",
+          "electrones": "-",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "H",
+          "name": "Hidrógeno",
+          "description": "",
+          "atomic": "1",
+          "valence": "-1,+1",
+          "color": "c_no_metal",
+          "matomic": "1.0079400000000001",
+          "eoxidacion": "1+",
+          "electronegatividad": "2.1",
+          "periodo": "1",
+          "grupo": "I A",
+          "fusion": "-259.2ºC ",
+          "ebullision": "-252.7ºC ",
+          "protones": "1",
+          "neutrones": "0",
+          "electrones": "1",
+          "use": [
+            {
+              "id": "0",
+              "name": "Dirigible Hindenburg, 1936.",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hindenburg_at_lakehurst.jpg/220px-Hindenburg_at_lakehurst.jpg"
+            },
+            {
+              "id": "1",
+              "name": "La Turbina principal del transbordador espacial",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Shuttle_Main_Engine_Test_Firing_cropped_edited_and_reduced.jpg/150px-Shuttle_Main_Engine_Test_Firing_cropped_edited_and_reduced.jpg"
+            }
+          ]
+        }
+
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Halógenos",
+      "image": "c_halogeno",
+      "element": [
+        {
+          "simbol": "F",
+          "name": "Flúor",
+          "description": "",
+          "atomic": "9",
+          "valence": "-1",
+          "color": "c_halogeno",
+          "matomic": "18.998403",
+          "eoxidacion": "1-",
+          "electronegatividad": "3.98",
+          "periodo": "2",
+          "grupo": "VII A",
+          "fusion": "-219.62 ºC",
+          "ebullision": "-188.14 ºC",
+          "protones": "9",
+          "neutrones": "10",
+          "electrones": "9",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Cl",
+          "name": "Cloro",
+          "description": "",
+          "atomic": "17",
+          "valence": "-1,+1,+2,+3,+4,+5,+7",
+          "color": "c_halogeno",
+          "matomic": "35.453000000000003",
+          "eoxidacion": "1-",
+          "electronegatividad": " 1+",
+          "periodo": " 3+",
+          "grupo": " 5+",
+          "fusion": " 7+",
+          "ebullision": "3.16",
+          "protones": "17",
+          "neutrones": "19",
+          "electrones": "17",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Br",
+          "name": "Bromo",
+          "description": "",
+          "atomic": "36",
+          "valence": "-1,+1,+3,+4,+5",
+          "color": "c_halogeno",
+          "matomic": "79.903999999999996",
+          "eoxidacion": "1-",
+          "electronegatividad": " 1+",
+          "periodo": " 5+",
+          "grupo": " 7+",
+          "fusion": "2.96",
+          "ebullision": "4",
+          "protones": "35",
+          "neutrones": "45",
+          "electrones": "35",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "I",
+          "name": "Yodo",
+          "description": "",
+          "atomic": "53",
+          "valence": "-1,+1,+3,+4,+5,+7",
+          "color": "c_halogeno",
+          "matomic": "126.9045",
+          "eoxidacion": "1-",
+          "electronegatividad": " 1+",
+          "periodo": " 5+",
+          "grupo": " 7+",
+          "fusion": "2.66",
+          "ebullision": "5",
+          "protones": "-",
+          "neutrones": "-",
+          "electrones": "-",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "At",
+          "name": "Astato",
+          "description": "",
+          "atomic": "85",
+          "valence": "-1,+1",
+          "color": "c_halogeno",
+          "matomic": "210",
+          "eoxidacion": "1-",
+          "electronegatividad": " 1+",
+          "periodo": " 3+",
+          "grupo": " 5+",
+          "fusion": " 7+",
+          "ebullision": "2.2000000000000002",
+          "protones": "-",
+          "neutrones": "-",
+          "electrones": "-",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Ts",
+          "name": "Teneso",
+          "description": "",
+          "atomic": "117",
+          "valence": "-",
+          "color": "c_halogeno",
+          "matomic": "",
+          "eoxidacion": "",
+          "electronegatividad": "",
+          "periodo": "",
+          "grupo": "",
+          "fusion": "",
+          "ebullision": "",
+          "protones": "-",
+          "neutrones": "-",
+          "electrones": "-",
+          "use": [
+            
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Gases Nobles",
+      "image": "c_gases_nobles",
+      "element": [
+        {
+          "simbol": "He",
+          "name": "Helio",
+          "description": "",
+          "atomic": "2",
+          "valence": "-",
+          "color": "c_gases_nobles",
+          "matomic": "4.0026000000000002",
+          "eoxidacion": "0",
+          "electronegatividad": "N/A",
+          "periodo": "1",
+          "grupo": "VIII A",
+          "fusion": "-272.20 C",
+          "ebullision": "-268.93 ºC",
+          "protones": "2",
+          "neutrones": "2",
+          "electrones": "2",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Ne",
+          "name": "Neón",
+          "description": "",
+          "atomic": "10",
+          "valence": "-",
+          "color": "c_gases_nobles",
+          "matomic": "20.183",
+          "eoxidacion": "0",
+          "electronegatividad": "N/A",
+          "periodo": "2",
+          "grupo": "VIII A",
+          "fusion": "-248.6 ºC",
+          "ebullision": "-246.1 ºC",
+          "protones": "10",
+          "neutrones": "10",
+          "electrones": "10",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Ar",
+          "name": "Argón",
+          "description": "",
+          "atomic": "18",
+          "valence": "-",
+          "color": "c_gases_nobles",
+          "matomic": "39.948",
+          "eoxidacion": "0",
+          "electronegatividad": "N/A",
+          "periodo": "3",
+          "grupo": "VIII A",
+          "fusion": "-189.3 ºC",
+          "ebullision": "-186 ºC",
+          "protones": "18",
+          "neutrones": "22",
+          "electrones": "18",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Kr",
+          "name": "Kriptón",
+          "description": "",
+          "atomic": "36",
+          "valence": "-",
+          "color": "c_gases_nobles",
+          "matomic": "83.8",
+          "eoxidacion": "0",
+          "electronegatividad": " 2+",
+          "periodo": "N/A",
+          "grupo": "4",
+          "fusion": "VIII A",
+          "ebullision": "-157.2 ºC",
+          "protones": "36",
+          "neutrones": "48",
+          "electrones": "36",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Xe",
+          "name": "Xenón",
+          "description": "",
+          "atomic": "56",
+          "valence": "-",
+          "color": "c_gases_nobles",
+          "matomic": "131.30000000000001",
+          "eoxidacion": "0",
+          "electronegatividad": " 2+",
+          "periodo": " 4+",
+          "grupo": " 6+",
+          "fusion": "N/A",
+          "ebullision": "5",
+          "protones": "54",
+
+          "neutrones": "77",
+          "electrones": "54",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Rn",
+          "name": "Radón",
+          "description": "",
+          "atomic": "86",
+          "valence": "-",
+          "color": "c_gases_nobles",
+          "matomic": "222",
+          "eoxidacion": "0",
+          "electronegatividad": " 2+",
+          "periodo": "N/A",
+          "grupo": "6",
+          "fusion": "VIII A",
+          "ebullision": "-71 ºC",
+          "protones": "86",
+          "neutrones": "136",
+          "electrones": "86",
+          "use": [
+            
+          ]
+        },
+        {
+          "simbol": "Og",
+          "name": "Oganesón",
+          "description": "",
+          "atomic": "118",
+          "valence": "-",
+          "color": "c_gases_nobles",
+          "matomic": "",
+          "eoxidacion": "",
+          "electronegatividad": "",
+          "periodo": "",
+          "grupo": "",
+          "fusion": "",
+          "ebullision": "",
+          "protones": "-",
+          "neutrones": "-",
+          "electrones": "-",
+          "use": [
+            
+          ]
+        }
+      ]
+    }
+  ]
+}
