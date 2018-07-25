@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "2.0.0",
   "tablegroup": [
     {
       "id": "0",
@@ -698,7 +698,11 @@
           "neutrones": "70",
           "electrones": "99",
           "use": [
-            
+            {
+              "id": "1",
+              "name": "Radiación de Rayos X.",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/S%C3%ADmbolo_radiaci%C3%B3n.png/200px-S%C3%ADmbolo_radiaci%C3%B3n.png"
+            }
           ]
         },
         {
@@ -719,7 +723,11 @@
           "neutrones": "71",
           "electrones": "104",
           "use": [
-            
+            {
+              "id": "1",
+              "name": "Catalizador y craqueo de petroleo.",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Russian_Cracking.jpg/200px-Russian_Cracking.jpg"
+            }
           ]
         }
       ]
@@ -793,7 +801,11 @@
           "neutrones": "140",
           "electrones": "91",
           "use": [
-            
+             {
+              "id": "0",
+              "name": "Para Soldadura TIG",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/TIG_torch-accs.jpg/220px-TIG_torch-accs.jpg"
+            }
           ]
         },
         {
